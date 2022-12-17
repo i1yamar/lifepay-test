@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Мобильный эквайринг с комиссией от 1,2%</title>
-    <link type="Image/x-icon" href="favicon.ico" rel="icon">
+    <link type="Image/x-icon" href="/favicon.ico" rel="icon">
     <link
       rel="stylesheet"
       type="text/css"

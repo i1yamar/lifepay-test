@@ -394,7 +394,7 @@ h2 {
     margin: 0;
   }
   .mobile {
-    display: inline-block !important;
+    display: inline-block;
   }
   .intro {
     text-align: center;
